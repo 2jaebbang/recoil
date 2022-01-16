@@ -8,7 +8,7 @@ import {
 } from "recoil";
 
 function App() {
-  return <RecoilRoot>{/* <CharacterCounter/> */}</RecoilRoot>;
+  return <RecoilRoot></RecoilRoot>;
 }
 
 export default App;
